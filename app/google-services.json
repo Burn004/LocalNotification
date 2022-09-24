@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606691312445",
+    "project_id": "localnotification-fc630",
+    "storage_bucket": "localnotification-fc630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606691312445:android:1ebe82c6da6166832abb54",
+        "android_client_info": {
+          "package_name": "com.example.localnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606691312445-figls4oukjkijf5rre5akm79guslka9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeiPLG3C-bm3mD0Co1KggMC5ibomK5oEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606691312445-figls4oukjkijf5rre5akm79guslka9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
